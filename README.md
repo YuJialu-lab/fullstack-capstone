@@ -1,1 +1,1 @@
-# fullstack-capstone
+# coding-project-template
